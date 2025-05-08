@@ -1,2 +1,7 @@
-# portfolio-app
-Portfolio App built with FlutterFlow. Clean, modular code for a slick, cross-platform app. Responsive UI, smooth animations, customizable sections to showcase projects &amp; skills. Supports Android/iOS. Clone, tweak, deploy your digital resume. Star it, fork it!
+# Mehta
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
